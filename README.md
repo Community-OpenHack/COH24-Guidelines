@@ -1,1 +1,1 @@
-# CommunityOpenHack2024-Contributions
+# Community OpenHack 2024 Guidelines
