@@ -17,7 +17,7 @@
 
 Nos preparámos para el hackathon, más info: https://www.communityopenhack.org/
 
-➡️ 📈 [Entrar en el servidor de Discord del Community OpenHack](https://discord.gg/X57xkheFN6)]
+➡️ 📈 [Entrar en el servidor de Discord del Community OpenHack](https://discord.gg/X57xkheFN6)
 
 ➡️ 📗 [Cuenta de Shopify Partners](https://www.shopify.com/partners)
 
