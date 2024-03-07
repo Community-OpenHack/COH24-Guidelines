@@ -60,6 +60,7 @@ Nos preparámos para el hackathon, más info: https://www.communityopenhack.org/
   - Feed de Instagram
   - Componentes de React
   - Herencia y jerarquía de temas
+  - Breadcrumbs
   - ...
  
  ☁️💡🤔 Sé creativo!!! ☁️💡🤔
