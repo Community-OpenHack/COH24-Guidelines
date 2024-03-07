@@ -61,6 +61,7 @@ Nos preparámos para el hackathon, más info: https://www.communityopenhack.org/
   - Componentes de React
   - Herencia y jerarquía de temas
   - Breadcrumbs
+  - Sticky add to cart
   - ...
  
  ☁️💡🤔 Sé creativo!!! ☁️💡🤔
