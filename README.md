@@ -1,6 +1,6 @@
-# Community OpenHack 2024 Guidelines
+# 🤘👩‍💻 Community OpenHack 2024 Guidelines 👨‍💻🤘
 
-## Agenda
+## ⏰ Agenda
 
  - **10:30 -** Apertura puertas. Bienvenida
  - **11:00 -** Presentación evento
@@ -13,31 +13,39 @@
  - **19:30 -** Entrega premios
  - **20:30 -** Despedida
 
-## Requisitos de participación
+## 📓 Requisitos de participación
 
 Nos preparámos para el hackathon, más info: https://www.communityopenhack.org/
 
-- ➡️ 📈 [Entrar en el servidor de Discord del Community OpenHack](https://discord.gg/X57xkheFN6)
-- ➡️ 📗 [Cuenta de Shopify Partners](https://www.shopify.com/partners)
-- ➡️ 🛒 Tienda de Desarrollo (Dev mode) en Shopify Partners
-- ➡️ 🧑‍💻 Git 2.28.0 o superior
-- ➡️ 🧑‍💻 NPM latest stable version.
-- ➡️ 🧑‍💻 NodeJS 18 o superior.
-- ➡️ 🧑‍💻 Shopify CLI 3.0 o superior.
-- ➡️ 🧑‍💻 Cuenta en GitHub
-- ➡️ 💻 Cuenta en algún proveedor de infraestructura para poder desplegar Shopify APPs (Digital Ocean, Vercel, Fl0, Netlify)
+➡️ 📈 [Entrar en el servidor de Discord del Community OpenHack](https://discord.gg/X57xkheFN6)]
+
+➡️ 📗 [Cuenta de Shopify Partners](https://www.shopify.com/partners)
+
+➡️ 🛒 Tienda de Desarrollo (Dev mode) en Shopify Partners
+
+➡️ 🧑‍💻 Git 2.28.0 o superior
+
+➡️ 🧑‍💻 NPM latest stable version.
+
+➡️ 🧑‍💻 NodeJS 18 o superior.
+
+➡️ 🧑‍💻 Shopify CLI 3.0 o superior.
+
+➡️ 🧑‍💻 Cuenta en GitHub
+
+➡️ 💻 Cuenta en algún proveedor de infraestructura para poder desplegar Shopify APPs (Digital Ocean, Vercel, Fl0, Netlify)
 
 
-## Objetivos del Community OpenHack
+## 🎯 Objetivos del Community OpenHack
 
-- Mejora de la experiencia de desarrollo
+- 🧪 Mejora de la experiencia de desarrollo
   - Componente Metaobjetos ORM
   - Componente de DDD
   - Dockerización de APPs
   - Observabilidad
   - Código autogenerado
   - ...
-- Aplicaciones de Shopify (frontend o backend)
+- ⚛️ Aplicaciones de Shopify (frontend o backend)
   - Login as Customer
   - Wishlist
   - Storelocator
@@ -45,7 +53,7 @@ Nos preparámos para el hackathon, más info: https://www.communityopenhack.org/
   - Productos agrupados
   - Biblioteca de snippets de liquid
   - ...
-- Desarrollo o mejora de temas (liquid y hydrogen)
+- 💅 Desarrollo o mejora de temas (liquid y hydrogen)
   - Snippets de liquid
   - Social share
   - Youtube integration en la galería de productos
@@ -54,12 +62,16 @@ Nos preparámos para el hackathon, más info: https://www.communityopenhack.org/
   - Herencia y jerarquía de temas
   - ...
  
-Sé creativo!!!
+ ☁️💡🤔 Sé creativo!!! ☁️💡🤔
 
 ## Criterios de evaluación
 
-- Creatividad
-- Funcionalidad
-- Votación popular
-- Votación twitch OsClick
-- Calidad
+🖌️ Creatividad
+
+🌈 Funcionalidad
+
+🙋 Votación popular
+
+🟣 Votación twitch OsClick
+
+👌 Calidad
