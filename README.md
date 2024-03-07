@@ -39,7 +39,7 @@ Nos preparámos para el hackathon, más info: https://www.communityopenhack.org/
 ## 🎯 Objetivos del Community OpenHack
 
 - 🧪 **Mejora de la experiencia de desarrollo**
-  - Componente Metaobjetos ORM
+  - Componente [Metaobjetos ORM](https://github.com/ShopyOs/metaobjects-orm)
   - Componente de DDD
   - Dockerización de APPs
   - Observabilidad
