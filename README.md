@@ -38,14 +38,14 @@ Nos preparámos para el hackathon, más info: https://www.communityopenhack.org/
 
 ## 🎯 Objetivos del Community OpenHack
 
-- 🧪 Mejora de la experiencia de desarrollo
+- 🧪 **Mejora de la experiencia de desarrollo**
   - Componente Metaobjetos ORM
   - Componente de DDD
   - Dockerización de APPs
   - Observabilidad
   - Código autogenerado
   - ...
-- ⚛️ Aplicaciones de Shopify (frontend o backend)
+- ⚛️ **Aplicaciones de Shopify (frontend o backend)**
   - Login as Customer
   - Wishlist
   - Storelocator
@@ -53,7 +53,7 @@ Nos preparámos para el hackathon, más info: https://www.communityopenhack.org/
   - Productos agrupados
   - Biblioteca de snippets de liquid
   - ...
-- 💅 Desarrollo o mejora de temas (liquid y hydrogen)
+- 💅 **Desarrollo o mejora de temas (liquid y hydrogen)**
   - Snippets de liquid
   - Social share
   - Youtube integration en la galería de productos
@@ -75,3 +75,7 @@ Nos preparámos para el hackathon, más info: https://www.communityopenhack.org/
 🟣 Votación twitch OsClick
 
 👌 Calidad
+
+## 🦄 Premios
+
+![Suprise](https://media1.tenor.com/m/rKLBka9zl5UAAAAd/yeah-excellent.gif)
