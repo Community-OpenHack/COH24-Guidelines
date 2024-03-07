@@ -64,7 +64,7 @@ Nos preparámos para el hackathon, más info: https://www.communityopenhack.org/
  
  ☁️💡🤔 Sé creativo!!! ☁️💡🤔
 
-## Criterios de evaluación
+## 📈 Criterios de evaluación
 
 🖌️ Creatividad
 
