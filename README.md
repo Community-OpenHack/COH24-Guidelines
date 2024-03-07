@@ -17,15 +17,16 @@
 
 Nos preparámos para el hackathon, más info: https://www.communityopenhack.org/
 
-➡️ 📈 Entrar en el servidor de Discord del Community OpenHack: https://discord.gg/X57xkheFN6
-➡️ 📗 Cuenta de Shopify Partners https://www.shopify.com/partners
-➡️ 🛒 Tienda de Desarrollo (Dev mode) en Shopify Partners
-➡️ 🧑‍💻 Git 2.28.0 o superior
-➡️ 🧑‍💻 NPM latest stable version.
-➡️ 🧑‍💻 NodeJS 18 o superior.
-➡️ 🧑‍💻 Shopify CLI 3.0 o superior.
-➡️ 🧑‍💻 Cuenta en GitHub
-➡️ 💻 Cuenta en algún proveedor de infraestructura para poder desplegar Shopify APPs (Digital Ocean, Vercel, Fl0, Netlify)
+- ➡️ 📈 [Entrar en el servidor de Discord del Community OpenHack](https://discord.gg/X57xkheFN6)
+- ➡️ 📗 [Cuenta de Shopify Partners](https://www.shopify.com/partners)
+- ➡️ 🛒 Tienda de Desarrollo (Dev mode) en Shopify Partners
+- ➡️ 🧑‍💻 Git 2.28.0 o superior
+- ➡️ 🧑‍💻 NPM latest stable version.
+- ➡️ 🧑‍💻 NodeJS 18 o superior.
+- ➡️ 🧑‍💻 Shopify CLI 3.0 o superior.
+- ➡️ 🧑‍💻 Cuenta en GitHub
+- ➡️ 💻 Cuenta en algún proveedor de infraestructura para poder desplegar Shopify APPs (Digital Ocean, Vercel, Fl0, Netlify)
+
 
 ## Objetivos del Community OpenHack
 
